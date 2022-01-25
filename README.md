@@ -3,3 +3,4 @@
 "変更main”
 no-fast-forwardブランチで変更
 conflict-remote上から変更
+
